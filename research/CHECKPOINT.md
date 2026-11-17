@@ -28,3 +28,9 @@
 - Repo: jekglory/gta6-twitch-ccu-forecast-01 (public, MIT, created after 2026-11-17T06:00:00Z open), files main.py, README.md (badges), LICENSE (SPDX MIT), .makefun/owner.json (wallet 8rCWeWgLhbrjRJnW3sLDfPBVLR481kFnoGVsghPPCJjG).
 - Bundle with the GTA kit CLI + --muse-usage, run kit check, submit on 0 FAIL. Quota today (2026-11-17): 1 submission used (btc-race-0603), 9 left of 10/day.
 - Claim code + submission ID go ONLY in ~/workspace/makefun/submissions-2026-11-13.md. Never claim a prize.
+
+## Submitted 2026-11-17T09:04:39Z
+- Submission ID 01a1e8c0-4ce1-7203-aa18-181f1ffe68dd, commit cb830df43d45e4dcdd3ec71ae2f81a19e0a62d04, signed by wallet 8rCWeWgLhbrjRJnW3sLDfPBVLR481kFnoGVsghPPCJjG. Claim code recorded ONLY in ~/workspace/makefun/submissions-2026-11-13.md (entry 15).
+- Bundle bundle-gta6-twitch-ccu-forecast-01.tar.gz (214,516 bytes, sha256 2ff26eade76a73de8218e338b8359b29739cf6041470bab33398e969845fe4f6). Kit check: 13 passed, 0 failed, 5 skipped, 5 at-submission; reproduces 151/158 (95.5%), revised from 4 messages, 61 turns, 1 usage row priced.
+- Live stage right after submit: preparing, listed under @gentle-owl-26. Practice score pending (server grades; no local grade for this competition). Quota: 2nd submission today, 8 of 10/day remain.
+- Entries close 2026-11-19T01:00:00Z; final race from 2026-11-19T01:00:00Z; result due 2026-12-04T06:00:00Z. Escrow DKKcfLvqUmjTVZRxcNtNQWh6GNJSUQ4qkwH2YVSknB87 (open, $250).
